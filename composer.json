@@ -1,0 +1,14 @@
+{
+    "name": "yanque1hao/tplibary",
+    "description": "thinkphp5.1 library",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "燕雀",
+            "email": "872655391@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
